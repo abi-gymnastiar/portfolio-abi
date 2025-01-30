@@ -7,4 +7,5 @@ export default defineConfig({
   json: {
     stringify: true, // Allows JSON imports
   },
+  base: "/portfolio-abi/",
 })

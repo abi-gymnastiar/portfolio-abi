@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { FaInstagram, FaItchIo, FaLinkedin } from "react-icons/fa"; // Social Icons
+import { FaInstagram, FaItchIo } from "react-icons/fa"; // Social Icons
 import GameProjectsBanner from "../components/GameProjectBanner";
 import ArtProjectBanner from "../components/ArtProjectBanner";
 
