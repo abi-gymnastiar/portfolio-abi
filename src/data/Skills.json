@@ -2,28 +2,28 @@
     {
       "id": 1,
       "skillName": "Programming",
-      "img": "/Skills/skill-coding.png",
+      "img": "Skills/skill-coding.png",
       "skillDesc": "Proficient in C++, C#, GDScript, and Java, with a focus on designing and implementing scalable game features. Can work fast and efficient.",
       "skillPageContent": ""
     },
     {
       "id": 2,
       "skillName": "3D Art (Modelling)",
-      "img": "/Arts/art-sword.png",
+      "img": "Arts/art-sword.png",
       "skillDesc": "Usually modeled game assets myself for my personal 3D game projects. Mainly use Blender as the software of choice.",
       "skillPageContent": "3D Art involves using software like Blender and Maya to create models for games, movies, and other visual media."
     },
     {
       "id": 3,
       "skillName": "UI/UX Implementation",
-      "img": "/Skills/skill-ui-ux.png",
+      "img": "Skills/skill-ui-ux.png",
       "skillDesc": "If you can design it, I can implement it. Have worked with some UI designers to implement UI in video game.",
       "skillPageContent": ""
     },
     {
       "id": 4,
       "skillName": "Level Design",
-      "img": "/Skills/skill-level-design.png",
+      "img": "Skills/skill-level-design.png",
       "skillDesc": "Have experience in designing levels for different types of game. From 3D first person horror, to 2D roguelike with procedurally generated dungeons",
       "skillPageContent": ""
     }

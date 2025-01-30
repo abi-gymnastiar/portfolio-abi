@@ -2,49 +2,49 @@
     {
         "id": 1,
         "title": "Sofa and Table",
-        "img": "/Arts/art-table-couch.png",
+        "img": "Arts/art-table-couch.png",
         "description": "Simple model of a sofa and a table used for my project 'Malam Pengabdian'.",
         "link": "https://beta2x.artstation.com/"
     },
     {
         "id": 2,
         "title": "Moonlight Greatsword",
-        "img": "/Arts/art-sword.png",
+        "img": "Arts/art-sword.png",
         "description": "A great sword model, referencing 'Moonlight Greatsword' from the video game 'Dark Souls 2'.",
         "link": "https://beta2x.artstation.com/"
     },
     {
         "id": 3,
         "title": "Capybara Chillin'",
-        "img": "/Arts/art-capy.jpg",
+        "img": "Arts/art-capy.jpg",
         "description": "A render of capybaras relaxing in and around a steaming hot tub. Created all the models myself.",
         "link": "https://beta2x.artstation.com/projects/8BbNDG"
     },
     {
         "id": 4,
         "title": "3D Zeppelin Model",
-        "img": "/Arts/art-airship.jpg",
+        "img": "Arts/art-airship.jpg",
         "description": "A 3D model of a vintage commercial airship used during and after WWI. Referencing 'Graf Zeppelin' Airship",
         "link": "https://beta2x.artstation.com/"
     },
     {
         "id": 5,
         "title": "Mira the Dog",
-        "img": "/Arts/art-mira.jpg",
+        "img": "Arts/art-mira.jpg",
         "description": "Low poly model of Mira from Silent Hill 2. Modeled, Textured and rendered using Blender by myself",
         "link": "https://beta2x.artstation.com/projects/2B9ebv"
     },
     {
         "id": 6,
         "title": "Dorm Room",
-        "img": "/Arts/art-dorm-room.jpg",
+        "img": "Arts/art-dorm-room.jpg",
         "description": "Layout for a level in my personal first person horror game project (WIP). All models were modeled by me.",
         "link": "https://beta2x.artstation.com/projects/oJJ8rB"
     },
     {
         "id": 7,
         "title": "Barong Mask",
-        "img": "/Arts/art-barong-mask.png",
+        "img": "Arts/art-barong-mask.png",
         "description": "Model of Barong mask. Used in my horror project 'Malam Pengabdian'",
         "link": "https://beta2x.artstation.com"
     }

@@ -47,7 +47,7 @@ const Home: React.FC = () => {
             {/* Right - Image with Fading Transparency Gradient */}
             <div className="md:w-1/2 h-full relative overflow-hidden">
               <img
-                src="/abi-picture.jpg" // Update with actual image path
+                src="abi-picture.jpg" // Update with actual image path
                 alt="Abiansyah Gymnastiar"
                 className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                 style={{
