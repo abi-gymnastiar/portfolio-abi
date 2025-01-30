@@ -1,0 +1,15 @@
+/* Tailwind's base styles */
+@import 'tailwindcss/base';
+
+/* Tailwind's component styles */
+@import 'tailwindcss/components';
+
+/* Tailwind's utility classes */
+@import 'tailwindcss/utilities';
+
+/* Add your own custom styles here */
+/* dark mode */
+body {
+  background-color: darkcyan;
+  color: darkblue;
+}

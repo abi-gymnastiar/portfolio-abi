@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Critical Care",
+        "projectType": "Game Jam Project",
+        "projectStatus": "Completed",
+        "projectTeam": "Team (2 people)",
+        "description": "Made by me and one other person. A 2D brawler game made for the NES Jam 2024.",
+        "pageContent": "/projects/CriticalCare/CriticalCare.md",
+        "img": "/projects/CriticalCare/critical-ss2.png",
+        "bannerImg": "/projects/critical-care_ss.png",
+        "screenShots": [
+            "/projects/CriticalCare/critical-ss.png",
+            "/projects/CriticalCare/critical-ss2.png",
+            "/projects/CriticalCare/critical-ss3.png"
+        ],
+        "link": "https://mastersujo.itch.io/critical-care"
+    },
+    {
+        "id": 2,
+        "title": "Beer or Brawl",
+        "projectType": "Game Jam Project",
+        "projectStatus": "Completed",
+        "projectTeam": "Team (4 people)",
+        "description": "Made by me and two other people. A 2D tavern keeper game made for Tavern GJ.",
+        "pageContent": "/projects/PufferPopper/PufferPopper.md",
+        "img": "/projects/beer-or-brawl-poster.png",
+        "bannerImg": "/projects/beer-or-brawl-poster.png",
+        "screenShots": [
+            "/projects/beer-or-brawl-poster.png"
+        ],
+        "link": "https://mastersujo.itch.io/beer-or-brawl"
+    },
+    {
+        "id": 3,
+        "title": "Puffer Popper",
+        "projectType": "Global Game Jam Project",
+        "projectStatus": "Completed",
+        "projectTeam": "Team (3 people)",
+        "description": "Made with 2 other people. A top down shooter game made for Global Game Jam 2025.",
+        "pageContent": "/projects/PufferPopper/PufferPopper.md",
+        "img": "/projects/PufferPopper-ss.png",
+        "bannerImg": "/projects/PufferPopper-ss.png",
+        "screenShots": [
+            "/projects/PufferPopper-ss.png"
+        ],
+        "link": "https://globalgamejam.org/games/2025/puffer-popper-5"
+    },
+    {
+        "id": 4,
+        "title": "Malam Pengabdian",
+        "projectType": "Game Jam Project",
+        "projectStatus": "Completed",
+        "projectTeam": "Solo",
+        "description": "A game sets in a Bali dormitory, the player wakes up to find no one else around. The game takes heavy inspirations from Balinese culture. The game was created for Hawktober Horror 2024 Game Jam.",
+        "pageContent": "/projects/MalamPengabdian/MalamPengabdian.md",
+        "img": "/projects/MalamPengabdian/malam-pengabdian-poster.png",
+        "bannerImg": "/projects/MalamPengabdian/malam-pengabdian-banner.png",
+        "screenShots": [
+            "/projects/MalamPengabdian/malam-ss.png",
+            "/projects/MalamPengabdian/malam-ss2.png",
+            "/projects/MalamPengabdian/malam-ss3.png"
+        ],
+        "link": "https://betabeta1.itch.io/malam-pengabdian"
+    },
+    {
+        "id": 5,
+        "title": "Turbo Bisky",
+        "projectType": "Game Jam Project",
+        "projectStatus": "Completed",
+        "projectTeam": "Overscoped Studio",
+        "description": "The game was made in 48 hours as part of the GameJam+ 24/25. Collaboration with Overscoped Studio.",
+        "pageContent": "/projects/TurboBisky/TurboBisky.md",
+        "img": "/projects/TurboBisky/turbo-bisky-poster.png",
+        "bannerImg": "/projects/TurboBisky/turbo-bisky-banner.png",
+        "screenShots": [
+            "/projects/TurboBisky/turbo-ss.png",
+            "/projects/TurboBisky/turbo-ss2.png",
+            "/projects/TurboBisky/turbo-ss3.png",
+            "/projects/TurboBisky/turbo-ss4.png"
+        ],
+        "link": "https://overscoped-studio.itch.io/turbo-bisky"
+    }
+]
