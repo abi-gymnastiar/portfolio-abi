@@ -80,5 +80,42 @@
             "projects/TurboBisky/turbo-ss4.png"
         ],
         "link": "https://overscoped-studio.itch.io/turbo-bisky"
+    },
+        {
+        "id": 6,
+        "title": "Date a Slash",
+        "projectType": "Game Jam Project",
+        "projectStatus": "Completed",
+        "projectTeam": "Overscoped Studio",
+        "description": "The game was made in 7 days as our submission for the GIMJAM 2025, hosted by GIM ITB, Bandung. Collaboration with Overscoped Studio.",
+        "pageContent": "projects/DateASlash/DateASlash.md",
+        "img": "projects/DateASlash/date-a-slash-poster.png",
+        "bannerImg": "projects/DateASlash/date-a-slash-banner.png",
+        "screenShots": [
+            "projects/DateASlash/date-a-slash-ss1.png",
+            "projects/DateASlash/date-a-slash-ss2.png",
+            "projects/DateASlash/date-a-slash-ss3.png",
+            "projects/DateASlash/date-a-slash-ss4.png"
+        ],
+        "link": "https://overscoped-studio.itch.io/date-a-slash"
+    },
+    {
+        "id": 7,
+        "title": "On The Way Above",
+        "projectType": "Game Jam Project",
+        "projectStatus": "In-Development",
+        "projectTeam": "Overscoped Studio",
+        "description": "2D Action Game with Roguelite elements. Submission for G-bits Game Jam 2025. Collaboration with Overscoped Studio.",
+        "pageContent": "projects/OnTheWayAbove/OnTheWayAbove.md",
+        "img": "projects/OnTheWayAbove/otw-above-poster.png",
+        "bannerImg": "projects/OnTheWayAbove/otw-above-banner.png",
+        "screenShots": [
+            "projects/OnTheWayAbove/otw-above-ss1.png",
+            "projects/OnTheWayAbove/otw-above-ss2.png",
+            "projects/OnTheWayAbove/otw-above-ss3.png",
+            "projects/OnTheWayAbove/otw-above-ss4.png",
+            "projects/OnTheWayAbove/otw-above-ss5.png"
+        ],
+        "link": "https://overscoped-studio.itch.io/on-the-way-above"
     }
 ]

@@ -3,7 +3,7 @@ import HighlightedProjectCard from "./HighligtedProjectCard"; // Import the new 
 import projectsData from "../data/projects.json"; // Import project data
 import { useNavigate } from "react-router-dom";
 
-const highlightedProjectIDs = [1, 4, 5]; // Select which projects to highlight
+const highlightedProjectIDs = [4, 5, 6]; // Select which projects to highlight
 
 const HighlightedProjects: React.FC = () => {
   const navigate = useNavigate();
