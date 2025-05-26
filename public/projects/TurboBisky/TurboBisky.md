@@ -5,7 +5,7 @@
 Turbo Bisky is a <b>2D side-view puzzle platformer</b> where player controls Turbo, a determined character on a mission to rescue her friend Bisky, who is trapped inside a mysterious building. This building is filled with strange anomalies such as constantly shuffling rooms that create challenging puzzles and obstacles for Turbo to overcome. Player must navigate these dynamic environments, solve puzzles, and help Turbo save Bisky from the unpredictable dangers lurking within.
 </p>
 <p align="center">
-<img src="/projects/TurboBisky/turbo-ss4.png"/>
+<img src="projects/TurboBisky/turbo-ss4.png"/>
 </p>
 <p align="justify">
 I worked on this game as the main programmer. My job includes:

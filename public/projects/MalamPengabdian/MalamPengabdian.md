@@ -9,7 +9,7 @@ can be downloaded and played from the itch.io page:
 https://betabeta1.itch.io/malam-pengabdian.
 </p>
 <p align="center">
-<img src="/projects/MalamPengabdian/malam-pengabdian-anim.gif"/>
+<img src="projects/MalamPengabdian/malam-pengabdian-anim.gif"/>
 </p>
 
 ### Features

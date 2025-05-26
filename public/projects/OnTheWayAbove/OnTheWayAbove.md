@@ -9,9 +9,9 @@ The game was developed using <b>Unity</b> and draws heavy gameplay inspiration f
 </p>
 
 <p align="center">
-<img src="/projects/OnTheWayAbove/otw-above-ss4.png"/>
+<img src="projects/OnTheWayAbove/otw-above-ss4.png"/>
 <br>
-<img src="/projects/OnTheWayAbove/otw-above-clip.gif"/>
+<img src="projects/OnTheWayAbove/otw-above-clip.gif"/>
 </p>
 
 <p align="justify">
